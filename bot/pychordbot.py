@@ -5,7 +5,7 @@ import logging
 from telebot import types
 from .messages import *
 
-BOT_TOKEN = '6819135404:AAFXDRXfyBjd0vrW24aPA0JthTY_ktaSWGU'
+BOT_TOKEN = '6792934047:AAEJz1TVJtq8D_Zj5z7pjJZfwq10TaCIXh0'
 
 CHORD_REGEX = "\[\S+\]"
 COMPOSE_REGEX = "\{([A-Z#b]|\s)+\}"
